@@ -1,0 +1,3 @@
+# Just need Pygments for lexing.
+pygments
+pandas
