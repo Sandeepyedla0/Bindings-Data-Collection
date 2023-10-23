@@ -8,7 +8,7 @@ import csv
 
 # GitHub API token
 
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer <Token>"}
 dataset = []
 
 # Constants & language argument
